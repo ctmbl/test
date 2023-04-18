@@ -1,2 +1,3 @@
+from parallel
 from main
 ... i added this
